@@ -1,3 +1,3 @@
 # Kr-demo
 this is my first respository
-Author-krishankant-tekchandani
+Author-Krishankant Tekchandani
